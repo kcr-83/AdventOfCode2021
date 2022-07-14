@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AB9KuaWThzZ4sOvu6EqV+fsZhCtUJMTB9ANyfxJpBTq9krG8012cfXv5nVZj0I2K0P0iGJyJJQWGhJhPBoqL2g==",
+  "dgSpecHash": "mtbwKtlxcNMgFOdpGPwOS7JPDP75fFEsLC3EVKaScksLdMS+8OU2Lmt57iIXU/cbfbzae4jdTEdEaV2DB0Quww==",
   "success": true,
   "projectFilePath": "D:\\OneDrive\\Pliki -Moje\\_Github\\AdventOfCode2021\\AdventOfCode2021\\AdventOfCode2021.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\system.text.regularexpressions\\4.3.1\\system.text.regularexpressions.4.3.1.nupkg.sha512"
+  ],
   "logs": []
 }
